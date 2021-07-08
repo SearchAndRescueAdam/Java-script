@@ -1,0 +1,35 @@
+body {
+    background-color:#2F4858;
+  }
+main {
+    width: 1100px;
+    height: 400px;
+    margin: 0px auto;
+    background-color: white;
+    padding: 0px;
+    margin-bottom: 100px;
+    padding-top: 0;
+}
+  h1, h2, h3 {
+    font-family:Arial, sans-serif;
+  }
+  h1 {
+      padding-top: 20px;
+      font-size: 3em;
+      text-align: center;
+  }
+  p {
+    font-family:Arial, sans-serif;
+  }
+.label {
+    font-size: 2em;
+}
+.response {
+    margin: 50px;
+    font-size: xx-large;
+    text-align: center;
+}
+button {
+    font-size: x-large;
+    margin: 2rem;
+}
